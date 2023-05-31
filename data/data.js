@@ -1,0 +1,53 @@
+const student = [{
+    "id": 1,
+    "first_name": "Gale",
+    "last_name": "Riquet",
+    "email": "griquet0@ovh.net"
+}, {
+    "id": 2,
+    "first_name": "Baxy",
+    "last_name": "Loadman",
+    "email": "bloadman1@virginia.edu"
+}, {
+    "id": 3,
+    "first_name": "Sharron",
+    "last_name": "Staresmeare",
+    "email": "sstaresmeare2@google.fr"
+}, {
+    "id": 4,
+    "first_name": "Minna",
+    "last_name": "Peres",
+    "email": "mperes3@parallels.com"
+}, {
+    "id": 5,
+    "first_name": "Jeffie",
+    "last_name": "Balkwill",
+    "email": "jbalkwill4@list-manage.com"
+}, {
+    "id": 6,
+    "first_name": "Cordelie",
+    "last_name": "Wavish",
+    "email": "cwavish5@microsoft.com"
+}, {
+    "id": 7,
+    "first_name": "Josselyn",
+    "last_name": "Herries",
+    "email": "jherries6@uol.com.br"
+}, {
+    "id": 8,
+    "first_name": "Delphine",
+    "last_name": "Sanches",
+    "email": "dsanches7@army.mil"
+}, {
+    "id": 9,
+    "first_name": "Netty",
+    "last_name": "Leile",
+    "email": "nleile8@hexun.com"
+}, {
+    "id": 10,
+    "first_name": "Ariel",
+    "last_name": "Enrdigo",
+    "email": "aenrdigo9@usda.gov"
+}]
+
+module.exports = student
